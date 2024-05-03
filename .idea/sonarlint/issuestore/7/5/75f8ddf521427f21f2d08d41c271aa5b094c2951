@@ -1,0 +1,9 @@
+
+pkotlin:S1481Ç",Remove this unused "mpImage" local variable.(¸®ôşúÿÿÿÿJ$f71d69b3-7cd5-4380-968f-705a374da7a7
+òkotlin:S6532”"²Replace this if expression with require(runningMode == RunningMode.VIDEO) { "Attempting to call detectVideoFile" +
+                        " while not using RunningMode.VIDEO" }.(·¿Ğ«J$4c2bc370-348c-4202-8350-edb10391ecf0
+‰kotlin:S6532ï"ÄReplace this if expression with require(runningMode == RunningMode.LIVE_STREAM) { "Attempting to call detectLivestreamFrame" +
+                        " while not using RunningMode.LIVE_STREAM" }.(§îáÃüÿÿÿÿJ$f1309f8b-d9ed-4c1f-b62f-1c00256e0f46
+ókotlin:S6532»"®Replace this if expression with require(runningMode == RunningMode.IMAGE) { "Attempting to call detectImage" +
+                        " while not using RunningMode.IMAGE" }.(ÓûÍìıÿÿÿÿJ$5511bdde-652b-4b33-9edc-e0819e2fefab
+Îkotlin:S6532W"Replace this if expression with checkNotNull(objectDetectorListener) { "objectDetectorListener must be set when runningMode is LIVE_STREAM." }.(ŞíØÈJ$eb1b420f-ad84-4787-9f50-be001bef7324

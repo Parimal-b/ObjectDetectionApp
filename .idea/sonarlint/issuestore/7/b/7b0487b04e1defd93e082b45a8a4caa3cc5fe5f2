@@ -1,0 +1,23 @@
+
+vkotlin:S1172Œ"2Use "_" instead of these unused lambda parameters.(æ®ÖõÿÿÿÿÿJ$5e49f877-1285-43c0-ba2c-64b524d16b2a
+\kotlin:S125m"Remove this commented out code.(Ëö—ˆJ$51dab941-d87d-4377-b564-c59bba95b7df
+\kotlin:S125s"Remove this commented out code.(ÿâŠJ$717d2c6d-bcc8-497d-b2af-3b398b66cc3e
+bkotlin:S125¯"Remove this commented out code.(¦ÌÂŸùÿÿÿÿJ$1d701576-b790-4721-88b1-0b08d0742269
+bkotlin:S125×"Remove this commented out code.(¦ÌÂŸùÿÿÿÿJ$0b92980a-ad3b-4210-b2ca-43a9c65fb8d2
+bkotlin:S125ƒ"Remove this commented out code.(¦ÌÂŸùÿÿÿÿJ$b9c9c834-7f7e-46ea-9c04-328c261fe6ef
+]kotlin:S125—"Remove this commented out code.(¤¼ó¦J$5d11b3b2-f18a-4dfa-b9c1-04366f089d6f
+bkotlin:S125¾"Remove this commented out code.(¦ÌÂŸùÿÿÿÿJ$8737e15b-2855-43d3-99a5-2cf2ba4ebb8b
+bkotlin:S125É"Remove this commented out code.(¦ÌÂŸùÿÿÿÿJ$14cc96ab-b049-450a-84f2-28a94648271c
+vkotlin:S1135Ì"2Complete the task associated to this TODO comment.(áÃæùÿÿÿÿJ$48930ce6-6902-43f7-9fe7-4a47300840b6
+bkotlin:S1874ö"#Deprecated code should not be used.(¨ÊÓJ$f0619c8a-6de9-46e9-8c6b-6f04d82509ab
+gkotlin:S1874¡"#Deprecated code should not be used.(·û–úøÿÿÿÿJ$76841cf1-c366-4d82-bedb-dd38c0dd60f0
+bkotlin:S1874Ú"#Deprecated code should not be used.(äãÊÙJ$4bdffa88-f456-4793-9c02-79883bb4c1e9
+tkotlin:S6529l"1Replace collection size check with "isNotEmpty()"(ìøµ“úÿÿÿÿJ$5a5a85a9-eb37-45a3-bac0-b2cac41f8547
+™kotlin:S1186"ZAdd a nested comment explaining why this function is empty or complete the implementation.(­ïãJ$06128721-c27f-4a25-9c68-e9399a41932f
+™kotlin:S1186¥"ZAdd a nested comment explaining why this function is empty or complete the implementation.(­ïãJ$57294fd3-3247-451b-9d03-b070e6917ef1
+™kotlin:S1186Á"ZAdd a nested comment explaining why this function is empty or complete the implementation.(ìé òJ$00d6801c-bded-4c28-acf6-4bcc391b91f9
+†kotlin:S6517÷"BMake this interface functional or replace it with a function type.(…÷ÏşøÿÿÿÿJ$bbcdd7a5-c8d9-40a7-9e4f-588f620abc69
+pkotlin:S6518›",Replace function call with indexed accessor.(ÔÛèöÿÿÿÿÿJ$714e9d8c-6b46-4309-a486-c0cd6e24849c
+pkotlin:S6518œ",Replace function call with indexed accessor.(¢ßë·ıÿÿÿÿJ$5c8c2682-4fad-400e-8b85-7cbe19329c87
+pkotlin:S6518®",Replace function call with indexed accessor.(ôşÚ¯ÿÿÿÿÿJ$867c8f4d-7f17-4188-81e1-fa27426f0e78
+pkotlin:S6518³",Replace function call with indexed accessor.(ôşÚ¯ÿÿÿÿÿJ$b30e8cb7-e38a-4d42-bfe1-921f56c7962c
